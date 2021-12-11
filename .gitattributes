@@ -1,2 +1,2 @@
 *.ctl linguist-detectable=true
-*.ctl linguist-language=sqlldr
+*.ctl linguist-language=sql*ldr
