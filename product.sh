@@ -1,0 +1,1 @@
+sqlldr \'sys/password AS SYSDBA\' control=product.ctl

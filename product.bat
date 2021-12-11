@@ -1,0 +1,1 @@
+sqlldr systemmanager,control=product.ctl,log=product.log
