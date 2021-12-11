@@ -1,0 +1,2 @@
+*.ctl linguist-detectable=true
+*.ctl linguist-language=sqlldr
