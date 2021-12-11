@@ -1,2 +1,2 @@
 *.ctl linguist-detectable=true
-*.ctl linguist-language=sql
+*.ctl linguist-language=dml
